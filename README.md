@@ -9,3 +9,6 @@
 ## milvus
 - [python读写milvus](https://blog.csdn.net/weixin_51133173/article/details/137942548)
 
+## elasticsearch
+- [常规读写es](https://blog.csdn.net/weixin_51133173/article/details/137944197)
+- [mapping类型的index](https://blog.csdn.net/weixin_51133173/article/details/137944466)
