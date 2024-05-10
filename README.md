@@ -4,6 +4,13 @@
 - [conda管理虚拟环境](https://blog.csdn.net/weixin_51133173/article/details/137884158)
 - [vscode远程ubuntu](https://blog.csdn.net/weixin_51133173/article/details/138047317)
 
+## 字符编码
+- [unicode码表](https://blog.csdn.net/weixin_51133173/article/details/138686860)
+- [utf-8介绍](https://blog.csdn.net/weixin_51133173/article/details/138686936)
+- [gb2312介绍](https://blog.csdn.net/weixin_51133173/article/details/138687092)
+- [utf-8实现unicode](https://blog.csdn.net/weixin_51133173/article/details/138687153)
+- [查看unicode数值](https://blog.csdn.net/weixin_51133173/article/details/138687216)
+
 ## redis
 - [读写redis](https://blog.csdn.net/weixin_51133173/article/details/137845138)
 
